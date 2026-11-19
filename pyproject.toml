@@ -23,6 +23,7 @@ addopts = "-ra"
 
 [tool.ruff]
 line-length = 100
+extend-exclude = ["modules/resorces"]
 target-version = "py312"
 src = ["src", "tests"]
 
