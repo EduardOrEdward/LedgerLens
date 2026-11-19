@@ -1,0 +1,1 @@
+"""Silver-zone storage adapters."""

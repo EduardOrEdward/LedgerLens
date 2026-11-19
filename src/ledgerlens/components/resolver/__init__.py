@@ -1,0 +1,1 @@
+"""Deterministic component compatibility resolution."""
