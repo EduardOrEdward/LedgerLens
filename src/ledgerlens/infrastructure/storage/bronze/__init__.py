@@ -1,0 +1,1 @@
+"""Bronze-zone storage adapters."""
